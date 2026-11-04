@@ -140,3 +140,4 @@ The project is set up to do this whenever building and testing the package.
 
 * Put any C/C++/Fortran code in 'src'.
 * See [_Writing R Extensions_](https://cran.r-project.org/doc/manuals/R-exts.html) for more information.
+* thanks
